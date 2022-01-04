@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "title": "New Game added!",
+      "summery": "Lorem ipsum dolor sit...",
+      "contant": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam perspiciatis illo magni provident molestias numquam earum dolorum? Nemo, nostrum nam autem optio non omnis impedit? Optio, beatae! Maiores, sapiente delectus.",
+      "author": "Saphie",
+      "id": 2
+    },
+    {
+      "title": "React tips here",
+      "summery": "Lorem ipsum dolor sit...",
+      "contant": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam perspiciatis illo magni provident molestias numquam earum dolorum? Nemo, nostrum nam autem optio non omnis impedit? Optio, beatae! Maiores, sapiente delectus.",
+      "author": "Irra",
+      "id": 3
+    },
+    {
+      "title": "Choosen One - Origins",
+      "summery": "Some text",
+      "contant": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles (non-magical people). ",
+      "author": "Rita Skitter",
+      "id": 4
+    }
+  ]
+}
