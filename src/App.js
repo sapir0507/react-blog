@@ -15,6 +15,9 @@ function App() {
             <Switch>
               <Route exact path="/">
                   <Home/>
+              </Route> 
+              <Route exact path="/react-blog/">
+                  <Home/>
               </Route>  
               <Route exact path="/create">
                   <Create/>
